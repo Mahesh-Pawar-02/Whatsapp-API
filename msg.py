@@ -1,6 +1,6 @@
 import pywhatkit as kit
 
-Phone_Number = "+919322794805"  # Use international format (with country code)
+Phone_Number = "+91 xxxxxxxxxx"  # Use international format (with country code)
 message = "Hello, this is a auto generated message..!"
 
 # Define the time to send the message (24-hour format)
